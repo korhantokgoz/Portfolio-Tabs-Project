@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Tabs-Project/static/css/main.77ad5ced.chunk.css",
+    "main.js": "/Portfolio-Tabs-Project/static/js/main.f573a02c.chunk.js",
+    "main.js.map": "/Portfolio-Tabs-Project/static/js/main.f573a02c.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Tabs-Project/static/js/runtime-main.3a4a51d7.js",
+    "runtime-main.js.map": "/Portfolio-Tabs-Project/static/js/runtime-main.3a4a51d7.js.map",
+    "static/js/2.bcafc819.chunk.js": "/Portfolio-Tabs-Project/static/js/2.bcafc819.chunk.js",
+    "static/js/2.bcafc819.chunk.js.map": "/Portfolio-Tabs-Project/static/js/2.bcafc819.chunk.js.map",
+    "index.html": "/Portfolio-Tabs-Project/index.html",
+    "precache-manifest.a3bd18add10ad1c4f499e0e26b7fe0fb.js": "/Portfolio-Tabs-Project/precache-manifest.a3bd18add10ad1c4f499e0e26b7fe0fb.js",
+    "service-worker.js": "/Portfolio-Tabs-Project/service-worker.js",
+    "static/css/main.77ad5ced.chunk.css.map": "/Portfolio-Tabs-Project/static/css/main.77ad5ced.chunk.css.map",
+    "static/js/2.bcafc819.chunk.js.LICENSE.txt": "/Portfolio-Tabs-Project/static/js/2.bcafc819.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a4a51d7.js",
+    "static/js/2.bcafc819.chunk.js",
+    "static/css/main.77ad5ced.chunk.css",
+    "static/js/main.f573a02c.chunk.js"
+  ]
+}
